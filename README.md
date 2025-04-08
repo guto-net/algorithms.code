@@ -10,4 +10,4 @@ Repositório destinado a estudos sobre algoritmos e lógica de programação.
 
 ## Estudos
 
-...
+[Estrutura Sequencial](./docs/structure_sequential/index.md)
