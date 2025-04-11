@@ -2,13 +2,13 @@
 
 Levando em conta as relações entre unidades de temperatura mostradas nos 6 primeiros
 exercícios, faça um programa em Python que converte temperaturas expressas em graus Rankine
-para graus Fahrenheit. Seu programa deve solicitar a digitação do valor a ser convertido (R).
+para graus Kelvin. Seu programa deve solicitar a digitação do valor a ser convertido (R).
 
 """
 
 while True:
 
-    i = input("Digite a temperatura em Rankine a ser convertida para Fahrenheit: ")
+    i = input("Digite a temperatura em Rankine a ser convertida para Kelvin: ")
 
     if not i:
 
@@ -20,9 +20,9 @@ while True:
 
         R = float(i)
 
-        F = R - 459.67
+        K = R * 5 / 9
 
-        print(f"A temperatura em Fahrenheit é de: {F:.2f}")
+        print(f"A temperatura em Kelvin é de {K:2f}")
 
         break
 

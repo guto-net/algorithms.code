@@ -1,4 +1,4 @@
-# Estrutura de repetição
+# Estrutura de sequencial
 
 ![Estrutura Sequencial](https://gabrielbueno072.github.io/rea-aed/img/seq/fluxo1.PNG)
 

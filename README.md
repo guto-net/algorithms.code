@@ -11,3 +11,9 @@ Repositório destinado a estudos sobre algoritmos e lógica de programação.
 ## Estudos
 
 [Estrutura Sequencial](./docs/structure_sequential/index.md)
+
+[Estrutura Condicional](./docs/structure_conditional/index.md)
+
+## Exercicios .1
+
+[Exercicios 0.1](./exercise_list_1/)
