@@ -14,6 +14,8 @@ Repositório destinado a estudos sobre algoritmos e lógica de programação.
 
 [Estrutura Condicional](./docs/structure_conditional/index.md)
 
+[Estrutura de Repetição](./docs/structure_repetition/index.md)
+
 ## Exercícios
 
 [Exercícios 0.1](./exercise_list_1/)
